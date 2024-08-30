@@ -2,7 +2,7 @@
 
 This repository is dedicated to storing my solutions and progress for the coding exercises I've completed on [Exercism](https://exercism.org). Exercism is a platform that provides practice problems and mentorship for improving coding skills in various programming languages.
 
-## Referência
+## References
 
 - [About Exercism](#about-exercism)
 - [Repository Structure](#repository-structure)
